@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ItsMaxDev)
+
 - 👋 Hi, I’m @ItsMaxDev
 - 👀 I’m interested in ICT
 - 🌱 I’m currently learning C#, HTML and CSS
