@@ -3,14 +3,14 @@
 <p>&nbsp;</p>
 <h3 align="center">My Languages:</h3>
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://maxkruiswegt.com/pages/experience">
     <img src="https://skillicons.dev/icons?i=cs,html,css"/>
   </a>
 </p>
 <p>&nbsp;</p>
 <h3 align="center">Find out more on:</h3>
 <p align="center">
-  <a href="https://maxkruiswegt.com" target="_blank">
+  <a href="https://maxkruiswegt.com">
     <img src="https://maxkruiswegt.com/img/MKLogo.png" height="50">
   </a>
 </p>
