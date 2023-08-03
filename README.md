@@ -14,8 +14,3 @@
     <img src="https://maxkruiswegt.com/img/MKLogo.png" height="50">
   </a>
 </p>
-<p>&nbsp;</p>
-<h1 align="center">&nbsp;</h1>
-<img align="left" width="1000vw" src="https://github-readme-stats.vercel.app/api?username=itsmaxdev&count_private=true&hide_rank=true" alt="itsmaxdev" /></p>
-<h1 align="center">&nbsp;</h1>
-<img align="left" width="1000vw" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmaxdev&" alt="itsmaxdev" />
