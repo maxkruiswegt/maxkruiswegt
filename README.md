@@ -4,7 +4,7 @@
 <h3 align="center">My Languages:</h3>
 <p align="center">
   <a href="https://maxkruiswegt.com/pages/experience">
-    <img src="https://skillicons.dev/icons?i=cs,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,java,html,css"/>
   </a>
 </p>
 <p>&nbsp;</p>
