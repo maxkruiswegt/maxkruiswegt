@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey there, I'm Max</h1>
 <h3 align="center">An IT enthusiast from The Netherlands 🇳🇱</h3>
 <p>&nbsp;</p>
-<h3 align="center">My Languages:</h3>
+<h3 align="center">My Expertise:</h3>
 <p align="center">
   <a href="https://maxkruiswegt.com/pages/experience">
-    <img src="https://skillicons.dev/icons?i=cs,java,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,java,html,css,mysql"/>
   </a>
 </p>
 <p>&nbsp;</p>
