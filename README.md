@@ -4,7 +4,7 @@
 <h3 align="center">My Expertise:</h3>
 <p align="center">
   <a href="https://maxkruiswegt.com/pages/experience">
-    <img src="https://skillicons.dev/icons?i=cs,java,html,css,mysql"/>
+    <img src="https://skillicons.dev/icons?i=cs,java,php,html,css,mysql"/>
   </a>
 </p>
 <p>&nbsp;</p>
