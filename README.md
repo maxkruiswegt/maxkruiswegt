@@ -11,6 +11,6 @@
 <h3 align="center">Find out more on:</h3>
 <p align="center">
   <a href="https://maxkruiswegt.com">
-    <img src="https://maxkruiswegt.com/img/MKLogo.png" height="50">
+    <img src="https://maxkruiswegt.com/images/MKLogoLight.webp" height="50">
   </a>
 </p>
