@@ -9,37 +9,30 @@ I prefer working with Vue.js, TypeScript, HTML, and CSS for frontend development
 
 ### 🛠️ Technical Experience
 
-- **Frontend** 🌐
-  - **Languages:** Vue.js, TypeScript, JavaScript, HTML, CSS
-<br>
-<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css"/>
+#### Frontend 🌐
+- **Languages:** Vue.js, TypeScript, JavaScript, HTML, CSS
+<br><img src="https://skillicons.dev/icons?i=vue,ts,js,html,css"/>
 
-  - **Tools:** TailwindCSS, Bootstrap, Pinia, Vite, Postman, Node.js, NPM
-<br>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,pinia,vite,postman,nodejs,npm"/>
+- **Tools:** TailwindCSS, Bootstrap, Pinia, Vite, Postman, Node.js, NPM
+<br><img src="https://skillicons.dev/icons?i=tailwind,bootstrap,pinia,vite,postman,nodejs,npm"/>
 
-- **Backend** 💻
-  - **Languages:** TypeScript, JavaScript, C#, Java, PHP
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,java,php"/>
+#### Backend 💻
+- **Languages:** TypeScript, JavaScript, C#, Java, PHP
+<br><img src="https://skillicons.dev/icons?i=ts,js,cs,java,php"/>
 
-  - **Tools:** Express.js, MongoDB, Spring, Maven, MySQL, Node.js, NPM
-<br>
-<img src="https://skillicons.dev/icons?i=express,mongo,spring,maven,mysql,nodejs,npm"/>
+- **Tools:** Express.js, MongoDB, Spring, Maven, MySQL, Node.js, NPM
+<br><img src="https://skillicons.dev/icons?i=express,mongo,spring,maven,mysql,nodejs,npm"/>
 
-- **Design** 🎨
-  - **Tools:** Figma
-<br>
-<img src="https://skillicons.dev/icons?i=figma"/>
+#### Design 🎨
+- **Tools:** Figma
+<br><img src="https://skillicons.dev/icons?i=figma"/>
 
-- **Mobile** 📱
-  - **Languages:** Dart
-<br>
-<img src="https://skillicons.dev/icons?i=dart"/>
+#### Mobile 📱
+- **Languages:** Dart
+<br><img src="https://skillicons.dev/icons?i=dart"/>
 
-  - **Frameworks:** Flutter
-<br>
-<img src="https://skillicons.dev/icons?i=flutter"/>
+- **Frameworks:** Flutter
+<br><img src="https://skillicons.dev/icons?i=flutter"/>
 
 ### 🌐 Find Out More
 Want to know more about me or my work? Visit my website:
