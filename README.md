@@ -16,9 +16,15 @@ Want to know more about me or my work? Visit <a href="https://maxkruiswegt.com">
 
 ### 🔗 Contact
 
-![Static Badge](https://img.shields.io/badge/maxkruiswegt.com-website?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=bf3f36&color=171717&link=https%3A%2F%2Fmaxkruiswegt.com%2Fcontact)
-![Static Badge](https://img.shields.io/badge/email-email?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=bf3f36&color=171717&link=mailto%3Ainfo%40maxkruiswegt.com)
-![Static Badge](https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&color=0077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaxkruiswegt%2F)
+<a href="https://maxkruiswegt.com/contact" target="_blank">
+  <img src="https://img.shields.io/badge/maxkruiswegt.com-website?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=bf3f36&color=171717" alt="Website Badge">
+</a>
+<a href="mailto:info@maxkruiswegt.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=bf3f36&color=171717" alt="Email Badge">
+</a>
+<a href="https://www.linkedin.com/in/maxkruiswegt/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn Badge">
+</a>
 
 <br>
 
