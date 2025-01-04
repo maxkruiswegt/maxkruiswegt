@@ -1,10 +1,12 @@
-<a href="https://maxkruiswegt.com" target="_blank">
-  <img src="https://maxkruiswegt.com/images/MKLogoLight.webp" style="height: 5rem;">
-</a>
+<div>
+  <a href="https://maxkruiswegt.com" target="_blank">
+    <img src="https://maxkruiswegt.com/images/MKLogoLight.webp" style="height: 5rem;">
+  </a>
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=maxkruiswegt&label=Profile%20views&color=bf3f36&style=flat" alt="Abdallah-Alwarawreh" />
+<img src="https://komarev.com/ghpvc/?username=maxkruiswegt&label=Profile%20views&color=bf3f36&style=flat" alt="Profile Views Badge" />
 
 ### 🚀 About me
 
@@ -16,29 +18,25 @@ Want to know more about me or my work? Visit <a href="https://maxkruiswegt.com">
 
 ### 🔗 Contact
 
-<a href="https://maxkruiswegt.com/contact" target="_blank">
-  <img src="https://img.shields.io/badge/maxkruiswegt.com-website?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=bf3f36&color=171717" alt="Website Badge">
-</a>
-<a href="mailto:info@maxkruiswegt.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=bf3f36&color=171717" alt="Email Badge">
-</a>
-<a href="https://www.linkedin.com/in/maxkruiswegt/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn Badge">
-</a>
+<div>
+  <a href="https://maxkruiswegt.com/contact" target="_blank">
+    <img src="https://img.shields.io/badge/maxkruiswegt.com-website?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=bf3f36&color=171717" alt="Website Badge">
+  </a>
+  <a href="mailto:info@maxkruiswegt.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=bf3f36&color=171717" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/maxkruiswegt/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&color=0077B5" alt="LinkedIn Badge">
+  </a>
+</div>
 
 <br>
 
 [![Max Kruiswegt's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkruiswegt&show_icons=true&theme=monokai)](https://github.com/maxkruiswegt)
 
-<br>
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maxkruiswegt&theme=monokai&column=4&margin-w=15&margin-h=15)](https://github.com/maxkruiswegt)
 
-<br>
-
 [![Max Kruiswegt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkruiswegt&layout=compact&theme=monokai)](https://github.com/maxkruiswegt)
-
-<br>
 
 ### 🧑‍💻 Technical Experience
 
