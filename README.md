@@ -1,6 +1,6 @@
 <div>
   <a href="https://maxkruiswegt.com" target="_blank">
-    <img src="https://maxkruiswegt.com/images/MKLogoLight.webp" style="height: 5rem;">
+    <img src="https://maxkruiswegt.com/images/MKLogoLight.webp" style="max-height: 5rem;">
   </a>
 </div>
 
