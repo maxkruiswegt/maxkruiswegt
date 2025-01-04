@@ -1,7 +1,6 @@
-<div style="max-width: 65ch;">
 <div>
   <a href="https://maxkruiswegt.com">
-    <img src="https://maxkruiswegt.com/images/MKLogoLight.webp">
+    <img src="https://maxkruiswegt.com/images/MKLogoLight.webp" style="height: 5rem;">
   </a>
 </div>
 
@@ -25,15 +24,15 @@ Want to know more about me or my work? Visit <a href="https://maxkruiswegt.com">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxkruiswegt&show_icons=true&theme=monokai" alt="Max Kruiswegt's GitHub stats" style="width: 100%;" />
+[![Max Kruiswegt's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxkruiswegt&show_icons=true&theme=monokai)](https://github.com/maxkruiswegt)
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=maxkruiswegt&theme=monokai&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="width: 100%;" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maxkruiswegt&theme=monokai&column=4&margin-w=15&margin-h=15)](https://github.com/maxkruiswegt)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxkruiswegt&layout=compact&theme=monokai" alt="Max Kruiswegt's Top Languages" style="width: 100%;" />
+[![Max Kruiswegt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkruiswegt&layout=compact&theme=monokai)](https://github.com/maxkruiswegt)
 
 <br>
 
@@ -52,5 +51,3 @@ Want to know more about me or my work? Visit <a href="https://maxkruiswegt.com">
 <img src="https://skillicons.dev/icons?i=nodejs,npm,figma,vite,postman"/>
 
 <br>
-
-</div>
