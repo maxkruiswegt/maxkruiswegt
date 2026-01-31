@@ -11,7 +11,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/maxkruiswegt.com-bf3f36?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://maxkruiswegt.com)
-[![Email](https://img.shields.io/badge/Email-171717?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@maxkruiswegt.com)
+[![Email](https://img.shields.io/badge/Email-171717?style=flat-square&logo=maildotru&logoColor=white)](mailto:hi@maxkruiswegt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxkruiswegt/)
 ![Profile Views](https://komarev.com/ghpvc/?username=maxkruiswegt&color=bf3f36&style=flat-square)
 
