@@ -25,7 +25,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,vue,nuxtjs,ts,js,html,css" alt="Mobile & Frontend" />
 
 #### Backend & Database
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,java,spring,cs,supabase,mongodb,mysql" alt="Backend & Database" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,java,cs,supabase,mongodb,mysql" alt="Backend & Database" />
 
 #### Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,figma,vscode,postman,npm,vite" alt="Tools" />
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<a href="https://my-kaizen.app">
+<a href="https://my-kaizen.com">
   <img src="https://my-kaizen.com/logo.png" alt="Kaizen" height="48" />
 </a>
 
